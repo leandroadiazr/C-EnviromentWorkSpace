@@ -8,6 +8,7 @@ namespace EnvTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("New Line to test");
+            Console.ReadLine("String: ");
         }
     }
 }
